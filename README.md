@@ -1,4 +1,4 @@
-#LSM303DLHC sensor for gesture recognition - exploration of the LSM303DLHC sensor.
+# gesture recognition - exploration of the LSM303DLHC sensor.
 
 This sketch makes the use of the compass and accelerometer LSM303DLHC
 breakout board from adafruit. It also uses the libraries for this breakout
