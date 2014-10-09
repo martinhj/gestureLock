@@ -8,3 +8,5 @@ thresholds is breached.
 It also uses an adapted smoothing method, smoothing all 6 axis from the
 LSM303 sensor. It puts several readings in an array and calculates the
 average.
+
+![Alt text](gestureLock.jpg?raw=true "gesture lock")
